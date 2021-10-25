@@ -1,0 +1,12 @@
+.centered {
+    position: fixed;
+    /* or absolute */
+    top: 42%;
+    left: 38%;
+}
+
+button {
+    text-transform: uppercase;
+    border-radius: 3px;
+    padding: 1px 3px;
+}
